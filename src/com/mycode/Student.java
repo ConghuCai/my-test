@@ -3,9 +3,9 @@ package com.mycode;
 public class Student {
 
     String id;
-    String id2;
+    String id3;
 
     public void print(){
-        System.out.println("Git 002");
+        System.out.println("Git 003");
     }
 }
